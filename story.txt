@@ -1,4 +1,3 @@
-github story 
 Once upon a time 
 Hello world 
 programming is fun
