@@ -1,5 +1,5 @@
 fish
-milk
+cheese   milk
 orange juice 
 bread 
 cookies
