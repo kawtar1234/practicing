@@ -2,3 +2,4 @@ milk
 orange juice 
 bread 
 cookies
+chocolat
